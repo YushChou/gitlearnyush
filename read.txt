@@ -3,4 +3,8 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git has a mutable index called stage.
 Git tracks changes of files.
-creating a new brand is quixk & simple.
+<<<<<<< HEAD
+creating a new brand is quixk and simple.
+=======
+creating a new brand is quick and simple.
+>>>>>>> feature1
